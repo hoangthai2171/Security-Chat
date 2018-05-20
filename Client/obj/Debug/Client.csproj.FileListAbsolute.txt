@@ -1,0 +1,10 @@
+E:\LTAT\Security Chat\Client\bin\Debug\Client.exe.config
+E:\LTAT\Security Chat\Client\bin\Debug\Client.exe
+E:\LTAT\Security Chat\Client\bin\Debug\Client.pdb
+E:\LTAT\Security Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\LTAT\Security Chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\LTAT\Security Chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\LTAT\Security Chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\LTAT\Security Chat\Client\obj\Debug\Client.exe
+E:\LTAT\Security Chat\Client\obj\Debug\Client.pdb
+E:\LTAT\Security Chat\Client\obj\Debug\Client.Client.resources
